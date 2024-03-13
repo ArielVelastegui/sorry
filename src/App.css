@@ -49,6 +49,11 @@
 height: 170px;
 margin: 0;
 }
+@media (max-width:800px){
+  .firsText{
+    width: 90vw;
+  }
+}
 .yes{
   padding: 0.5em;
   background-color: #38ce13ac;
