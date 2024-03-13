@@ -20,8 +20,8 @@ const Important = () => {
             Estamos bien?, no tenia alguna mala intención simplemente mis habilidades sociales son nulas y pues pienso que la reacción va a ser otra,el comentario era completamente bien intencionado 
         </p>
 
-        <img src="public/hamster.png" alt="" className={`hams ${yes?'hiddent':''}`}/>
-        <img src="public/elmo.gif" alt="" className={`hams ${yes?'show':'hiddent'}`}/>
+        <img src="/hamster.png" alt="" className={`hams ${yes?'hiddent':''}`}/>
+        <img src="/elmo.gif" alt="" className={`hams ${yes?'show':'hiddent'}`}/>
 
         <div className='cont-btns'>
             <button className='yes poppins-regular' style={{padding}} onClick={handleYes}>
@@ -39,7 +39,7 @@ const Important = () => {
             Recomendacion musical 😄
         </p>
         <div className='music-rcm poppins-regular'>
-                <img src="public/musiPhoto.png" alt="" className='img-music'/>
+                <img src="/musiPhoto.png" alt="" className='img-music'/>
                 <a href="https://music.youtube.com/watch?v=hGvl2rfJBU0&list=PL3E8AgZq0xAaUPgt10E9t5dV6nEQt2iF0" target='_blank' className='a-music'>
                     Be more <br />
                     <span className='sub-text'>

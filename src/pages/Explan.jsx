@@ -30,8 +30,8 @@ function Explan() {
         </span>
       </p>
       <span className="flex-img">
-        <img className="let-img" src="public/letter1.jpeg" alt="" />
-        <img className="let-img" src="public/letter2.jpeg" alt="" />
+        <img className="let-img" src="/letter1.jpeg" alt="" />
+        <img className="let-img" src="/letter2.jpeg" alt="" />
       </span>
       <p>
         <span>
@@ -49,47 +49,47 @@ function Explan() {
         <div className="cont-wrap-photos">
           <img
             className="child"
-            src="public/photo1.jpeg"
+            src="/photo1.jpeg"
             alt=""
           />
           <img
             className="child"
-            src="public/photo2.jpeg"
+            src="/photo2.jpeg"
             alt=""
           />
           <img
             className="child"
-            src="public/photo3.jpeg"
+            src="/photo3.jpeg"
             alt=""
           />
           <img
             className="child"
-            src="public/photo4.jpeg"
+            src="/photo4.jpeg"
             alt=""
           />
           <img
             className="child"
-            src="public/photo5.jpeg"
+            src="/photo5.jpeg"
             alt=""
           />
           <img
             className="child"
-            src="public/photo6.jpeg"
+            src="/photo6.jpeg"
             alt=""
           />
           <img
             className="child"
-            src="public/photo7.jpeg"
+            src="/photo7.jpeg"
             alt=""
           />
           <img
             className="child"
-            src="public/photo8.jpeg"
+            src="/photo8.jpeg"
             alt=""
           />
           <img
             className="child"
-            src="public/photo9.jpeg"
+            src="/photo9.jpeg"
             alt=""
           />
         </div>

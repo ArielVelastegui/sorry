@@ -32,11 +32,11 @@ const Celeb = () => {
     <div className='main celeb'
     style={{backgroundColor}}>
         <div className='flex-celeb'>
-           <img src="public/tibDance.gif" alt="" /> 
+           <img src="/tibDance.gif" alt="" /> 
         <p className='title-word'>
           FELICIDADES!!!
         </p>
-           <img src="public/bobDance.gif" alt="" /> 
+           <img src="/bobDance.gif" alt="" /> 
         </div>
         <p className='poppins-regular text-3'>
           Sabia que lo conseguirías, te deseo mucha suerte y estudia mucho porque la nivelación tampoco es facíl, yo la fallé 2 veces 😢

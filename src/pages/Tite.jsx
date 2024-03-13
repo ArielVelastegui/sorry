@@ -11,7 +11,7 @@ const Tite = () => {
         <p className='sad-text madimi-one-regular'>
           Lo siento mucho, a la próxima lo conseguirás lo sé
         </p>
-        <img src="public/pika.gif" alt="" />
+        <img src="/pika.gif" alt="" />
         <a href='https://vm.tiktok.com/ZMMrmbG4N/' target='_blank' className='a-sad poppins-regular'>
           Para que te sientas mejor😄
         </a>
