@@ -20,6 +20,12 @@
   overflow: hidden;
   white-space: nowrap;
   animation: escribir-texto 2.4s steps(30) forwards;
+  max-width: 80vw;
+}
+@media screen and (max-width:700px) {
+  .firsText{
+    white-space: wrap;
+  }
 }
 .madimi-one-regular {
   font-family: "Madimi One", sans-serif;
@@ -49,11 +55,7 @@
 height: 170px;
 margin: 0;
 }
-@media (max-width:800px){
-  .firsText{
-    width: 90vw;
-  }
-}
+
 .yes{
   padding: 0.5em;
   background-color: #38ce13ac;
